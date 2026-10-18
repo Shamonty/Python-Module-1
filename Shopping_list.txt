@@ -1,0 +1,7 @@
+1.Milk
+2.Bread
+3.Egg
+4.Apples
+5.Rice
+6.Tomato
+7.Butter
