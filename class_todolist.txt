@@ -1,0 +1,7 @@
+IMPORTANT: Complete python homework
+TODO: Revise file handling concepts
+NOTE: Submit assignment today
+IMPORTANT: Practice loops with files
+SKIP: This line is not needed
+NOTE: Create new files
+TODO: Organize new files

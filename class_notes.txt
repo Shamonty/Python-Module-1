@@ -1,3 +1,7 @@
-Maths: Learn equations today
-Coding: Learn variables
-Science: Learn about plant kingdom
+Complete python homework
+Revise file handling concepts
+Submit assignment today
+Practice loops with files
+Submit python quiz
+Create new files
+Organize new files

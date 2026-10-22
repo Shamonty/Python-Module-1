@@ -1,0 +1,4 @@
+IMPORTANT: Complete python homework
+TODO: Revise file handling concepts
+IMPORTANT: Practice loops with files
+TODO: Organize new files
